@@ -1,0 +1,14 @@
+/** Media Queries **/
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+}
